@@ -3,3 +3,6 @@
 
 
 ![](chainbet.png)
+
+npm install
+npm start
