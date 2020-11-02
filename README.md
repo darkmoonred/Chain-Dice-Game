@@ -1,4 +1,4 @@
-### ```"A Decentralized Betting Game powered by Chainlink Random number generator."```
+### ```"A Decentralized Betting Game powered by Chainlink's Random number generator."```
 
 
 
