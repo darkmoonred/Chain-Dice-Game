@@ -5,6 +5,8 @@
 ![](chainbet.png)
 
 Instructions:<br>
+cd ..<br>
+install node js<br>
 npm install<br>
 npm start
 <br>
