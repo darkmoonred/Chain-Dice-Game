@@ -4,5 +4,6 @@
 
 ![](chainbet.png)
 
-npm install
+Instructions:
+npm install<br>
 npm start
