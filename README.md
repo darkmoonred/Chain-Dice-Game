@@ -4,6 +4,11 @@
 
 ![](chainbet.png)
 
-Instructions:
+Instructions:<br>
 npm install<br>
 npm start
+<br>
+<br>
+<br>
+Get chainlink for the Rinkeby faucet here: https://rinkeby.chain.link/
+Get eth for the Rinkeby faucet here:https://faucet.rinkeby.io/
