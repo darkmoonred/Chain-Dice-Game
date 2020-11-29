@@ -1,6 +1,9 @@
 ### ```"A Decentralized Betting Game powered by Chainlink's Random number generator."```
 
 
+https://yellow-recipe-1812.on.fleek.co
+(connect on rinkeby network with metamask)
+
 
 ![](chainbet.png)
 
